@@ -1,0 +1,23 @@
+06/05/15 Top-20-words Business news
+Words Frequency
+------ ------
+years 2
+water 2
+new 2
+china 2
+billion 2
+biggest 2
+be 2
+banks 2
+world 1
+working 1
+wont 1
+women 1
+watch 1
+volatility 1
+twitter 1
+tip 1
+things 1
+than 1
+th 1
+tech 1

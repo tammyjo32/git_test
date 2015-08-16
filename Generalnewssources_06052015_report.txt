@@ -1,0 +1,23 @@
+06/05/15 Top-20-words General news sources
+Words Frequency
+------ ------
+years 3
+world 2
+tv 2
+than 2
+story 2
+reality 2
+piggy 2
+more 2
+miss 2
+ferris 2
+feminist 2
+day 2
+zeya 1
+would 1
+womens 1
+women 1
+whether 1
+watch 1
+want 1
+tvs 1

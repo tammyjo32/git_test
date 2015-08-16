@@ -1,0 +1,6 @@
+capture-log
+date time location size
+------ ------ ---------------------- ------
+2015-06-05 17:52:13 https://twitter.com/i/streams/stream/1 243199
+2015-06-05 17:52:52 https://twitter.com/i/streams/stream/2 246515
+2015-06-05 17:54:32 https://twitter.com/i/streams/stream/1 242668
