@@ -1,6 +1,6 @@
 #
 # whatisontwitter.sh
-# A toy script to do some basic analysis of the most used words in twitter messages
+# A toy script to do analysis of the most used words in twitter messages
 #
 
 #!/bin/tcsh
