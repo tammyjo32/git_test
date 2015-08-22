@@ -1,8 +1,6 @@
 #
 # whatisontwitter.sh
-# Created by Zhifei Yan, 06/05/2015
-# Final Project of CSE4251
-# This script is used to do some basic analysis of the most used words in twitter messages.
+# A toy script to do some basic analysis of the most used words in twitter messages
 #
 
 #!/bin/tcsh
