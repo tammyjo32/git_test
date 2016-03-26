@@ -62,14 +62,14 @@ if ($option == 1) then
   echo "Press 1 if you want to add excluding words. Press 2 if you decide to use existing exluding words."
   set suboption = $<
   if ($suboption == 1) then
-  	echo "Enter all the words you want to add (separated by white space)."
-  	set addwords = "$<"
-  	echo -n "$addwords" >> excludingword.txt
+    echo "Enter all the words you want to add (separated by white space)."
+    set addwords = "$<"
+    echo -n "$addwords" >> excludingword.txt
   endif
 
   # delete excluding words in the report file
   foreach exclude (`cat excludingword.txt`)
-  	sed -i "/^$exclude/d" "${filetopic}_${filedate}_report.txt"
+    sed -i "/^$exclude/d" "${filetopic}_${filedate}_report.txt"
   end
   # delete the words ranking after 20
   sed -i '24,$d' "${filetopic}_${filedate}_report.txt"
